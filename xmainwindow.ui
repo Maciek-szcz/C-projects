@@ -17,7 +17,7 @@
    <item row="1" column="0">
     <widget class="QPushButton" name="Shuffling">
      <property name="text">
-      <string>Kreator drabinek</string>
+      <string>Uloz drabinki</string>
      </property>
     </widget>
    </item>

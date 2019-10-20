@@ -20,6 +20,7 @@ private slots:
 
 private:
     Ui::XMainWindow *ui;
+
 };
 
 #endif // XMAINWINDOW_H
